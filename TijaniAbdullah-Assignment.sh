@@ -28,6 +28,11 @@ Goals() {
 }
 
 
-
+# Calling Functions
+Fullname
+Bio
+Year_In_Tech
+Dream_Job
+Goals
 
 
