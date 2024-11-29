@@ -23,10 +23,11 @@ dream_job() {
 
 goals_⚽() {
     echo "Goals ⚽: "
-    echo "1. Build a scalable AI model"
-    echo "2. Contribute to open-source projects"
-    echo "3. Get certified in cloud"
-    echo "4. Attend a global tech conference"
+    echo "1. Build a scalable AI model;"
+    echo "2. Contribute to open-source projects;"
+    echo "3. Get certified in cloud;"
+    echo "4. Attend a global tech conference;"
+    echo "5. Visit the entire Africa."
 }
 
 
