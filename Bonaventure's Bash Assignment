@@ -1,0 +1,33 @@
+#!/bin/bash
+
+# Function to print fullname
+fullname() {
+  echo "Fullname: Bonaventure Iwunor"
+}
+
+# Function to print bio
+bio() {
+  echo "Bio: I am a futuristic innovator, a cloud engineer enthusiast, and platform designer, passionate about blending artistry and technology to create immersive digital experiences."
+}
+
+# Function to print year in tech
+year_in_tech() {
+  echo "Year in Tech: 6+ months”
+}
+
+# Function to print dream job
+dream_job() {
+  echo "Dream Job: Founder and visionary of a revolutionary AR/VR-powered web novel platform."
+}
+
+# Function to print goals
+goals() {
+  echo "Goals ⚽: To build cutting-edge platforms, empower creatives, and redefine storytelling through futuristic design and technology."
+}
+
+# Call the functions to display the information
+fullname
+bio
+year_in_tech
+dream_job
+goals
