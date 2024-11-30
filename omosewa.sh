@@ -10,10 +10,4 @@ who_am_i() {
 } 
 
 
-who_am_i
-
-# Fullname
-# Bio
-# Year in tech
-# Dream job
-# Goals ⚽
+who_am_i()
