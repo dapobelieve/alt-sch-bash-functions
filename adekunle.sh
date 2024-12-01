@@ -1,6 +1,15 @@
 #!/bin/bash
-echo "Hello World !, Today is: " `date`
-echo "Hello, I am the AltSchool Cloud Student"
-echo "my name is:seyi"
-echo " I am from: Osun State Nigeria"
-echo " I want to become a deveops engineer"
+fullname() {
+  echo "Fullname: Oluseyi Adekunle!"
+}
+
+bio() {
+  echo "Bio: I am new to learning tech and have challenges ahead."
+}
+year_in_tech() {
+  echo "Experience:I just started tech under 2 months."
+}
+
+fullname
+bio
+year_in_tech
