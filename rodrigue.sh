@@ -27,6 +27,7 @@ goals_⚽() {
     echo "2. Contribute to open-source projects;"
     echo "3. Get certified in cloud;"
     echo "4. Attend a global tech conference;"
+    echo "5. Make tech accessible to the African youth;"
     echo "5. Visit all the countries in Africa.✈🚁🛫🛬✈🛸🛳🚀"
 }
 
