@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "This is my updated bio"
+
 who_am_i() {
     echo "Hello, my name is David Obinta"
 }
