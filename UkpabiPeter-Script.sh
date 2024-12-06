@@ -27,9 +27,10 @@ share_goal() {
 }
 
 # Main script execution
-introduce_yourself
-describe_background
-state_tech_start
-share_dream_job
-share_goal
+My_name
+Bio
 
+state_tech_start
+My_dream_job
+share_goal
+#bash functions can be declared with or without function keyword
