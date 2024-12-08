@@ -4,7 +4,7 @@ who_am_i() {
 }
 
 fullname() {
-  echo "Fullname: Olubimi Michael Olumde"
+  echo "Fullname: Olubimi Michael Olumde."
 }
 
 bio() {
