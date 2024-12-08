@@ -44,7 +44,7 @@ print_goals() {
         echo "Goal 2: To Succed in Life"
 }
 
-chmod +x Vicktour.sh
+
 
 #Call The Functions
 print_full_name
