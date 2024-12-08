@@ -12,7 +12,7 @@ bio() {
 }
 
 year_in_tech() {
-  echo "Year in Tech: I have been in tech for 2 years but currently working in a financial institution as an account maintenance officer"
+  echo "Year in Tech: I have been in tech for 2 years but currently working in a financial institution as an account maintenance officer."
 }
 
 dream_job() {
