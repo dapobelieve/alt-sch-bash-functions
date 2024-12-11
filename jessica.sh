@@ -12,7 +12,7 @@ bio() {
 }
 
 year_in_tech() {
-  echo "Year in Tech: I have been in tech for 9 months."
+  echo "Year in Tech: I have been in tech for 9 whole months."
 }
 
 dream_job() {
